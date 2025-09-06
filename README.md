@@ -1,4 +1,4 @@
- <h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=30&letterSpacing=0px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi!+I'm+Marcelo+%F0%9F%91%8B"></a></h2>
+ <h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=30&letterSpacing=0px&duration=2500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi!+I'm+Marcelo+%F0%9F%91%8B"></a></h2>
 
 ###
 
